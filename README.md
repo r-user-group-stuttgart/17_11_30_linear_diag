@@ -8,6 +8,7 @@ Die R User Group Stuttgart trifft sich für einen kleinen Einführungsworkshop z
 
 
 *Modelldiagnostik.*
+
 Die Modelldiagnostik dient dazu die Validität und Reliabilität der Ergebnisse einer linearen Regression sicherzustellen. Wenn alle Annahmen erfüllt sind, kann man von einer bestmöglichsten Parameterschätzung sprechen, was auch Best Linear Unbiased Estimator genannt wird (BLUE, siehe Gauß-Markov-Theorem). In diesem Workshop lernt ihr die Grundkonzepte der Modelldiagnostik für lineare Modelle, deren Anwendung sowie Interpretation und Visualisierung. Alles in R!
 
 Wir freuen uns auf euer Erscheinen, 
