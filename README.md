@@ -1,5 +1,7 @@
 # R User Group Treffen am 30.11.2017
 
+![](diagnostik/LearnR/images/header2.png)
+
 **Thema: Modelldiagnostik**
 
 Die R User Group Stuttgart trifft sich für einen kleinen Einführungsworkshop zum Thema „Modelldiagnostik der linearen Regression in R“. Dieser findet am Donnerstag , den 30.11.2017 von 17:30 bis 19:00 im CIP Pool der Breitscheidstraße 2 (M2.5.005) statt.  
