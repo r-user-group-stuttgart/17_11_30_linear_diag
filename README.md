@@ -1,6 +1,6 @@
 # R User Group Stuttgart - Sitzung am 30.11.2017
 
-![](images/header2.png)
+![](diagnostik/LearnR/images/header2.png)
 
 **Thema: Modelldiagnostik**
 
@@ -23,7 +23,7 @@ Die Modelldiagnostik dient dazu die Validität und Reliabilität der Ergebnisse 
 
 #### **Kontakt:**
 
-<img src="images/xing.jpg" align = "left" width = "20%">
+<img src="diagnostik/LearnR/images/xing.jpg" align = "left" width = "20%">
 
 Wir haben jetzt auch eine [XING-Gruppe](https://www.xing.com/communities/groups/r-user-group-stuttgart-c0de-1101184)
 
@@ -33,7 +33,7 @@ Wir haben jetzt auch eine [XING-Gruppe](https://www.xing.com/communities/groups/
 <br>
 
 
-<img src="images/facebook.png" align = "left" width = "20%">
+<img src="diagnostik/LearnR/images/facebook.png" align = "left" width = "20%">
 
 Oder tretet unserer Gruppe auf [Facebook](https://www.facebook.com/groups/rstuttgart/) bei
 
