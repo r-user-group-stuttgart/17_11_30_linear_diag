@@ -13,5 +13,5 @@ Die Modelldiagnostik dient dazu die Validität und Reliabilität der Ergebnisse 
 
 Wir freuen uns auf euer Erscheinen, 
 
-die R-Group Stuttgart"
+die R-Group Stuttgart
 
